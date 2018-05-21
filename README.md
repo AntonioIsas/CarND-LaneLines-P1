@@ -8,9 +8,6 @@ In this project you will detect lane lines in images using Python and OpenCV.  O
 
 ---
 
-
-
-
 [//]: # (Image References)
 [image1]: ./test_images_output/regionOfInterest_solidYellowCurve.jpg "Region of interest"
 [image2]: ./test_images_output/yellowMask_solidYellowCurve.jpg "Yellow mask"
@@ -30,9 +27,8 @@ Video of the results
 
 [Challenge video](http://www.youtube.com/watch?v=ECmhbCULJpU)
 
-
-
-### Reflection
+---
+# Reflection
 
 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 ---
